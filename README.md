@@ -32,4 +32,4 @@ Your requests can be seen by other employees in the department to which you belo
 
 For reports, managers can see requests from all departments regardless of which department, employees in the technology department can see requests made from their department and the requests they have worked on, and other employees can only view requests from their department. These reports were made with ReportViewer, which means that you can save your reports as a Microsoft Word, Microsoft Excel or .pdf file.
 
-Algunas ventanas del software / Some forms of the software:
+Algunas ventanas del software en la carpeta "Images of the software"/ Some forms of the software in the folder "Images of the software".
